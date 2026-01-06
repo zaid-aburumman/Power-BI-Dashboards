@@ -1,0 +1,139 @@
+match_id,player_name,position,minutes_played,rating,goals,assists
+1,Yazeed Abulaila,Goalkeeper,90,6.4,0,0
+1,Abdallah Nasib,Defender,90,6.9,0,0
+1,Salem Al-Obeid,Defender,52,6.9,0,0
+1,MALEK SHALABIYA,Goalkeeper,0,0,0,0
+1,HADI ALHOURANI,Defender,0,0,0,0
+1,Ali Hajabi,Defender,0,0,0,0
+1,NOUR BANIATEYAH,Goalkeeper,0,0,0,0
+1,Saed Al-Rosan,Defender,90,7.1,0,0
+1,Hussam Abu Dhab,Defender,38,6.9,0,0
+1,Essam Al-Samiri,Midfielder,0,0,0,0
+1,Adham Al-Quraishi,Midfielder,90,6.1,0,0
+1,Rajaei Ayed,Midfielder,8,0,0,0
+1,Amer Jamous,Midfielder,38,6.8,0,0
+1,Nizar Al-Rashdan,Midfielder,87,6.7,0,0
+1,Ibrahim Saadeh,Midfielder,52,6.1,0,0
+1,Mohammad Abu Hasheesh,Midfielder,0,0,0,0
+1,Mohannad Abu Taha,Midfielder,90,6.6,0,0
+1,Ahmad Al-Ersan,Forward,67,6.4,0,0
+1,Mahmoud Al-Mardi,Forward,32,6.5,0,0
+1,Mohammad Abu Zreig,Forward,0,0,0,0
+1,Ali Olwan,Forward,90,6.5,1,0
+1,Yazan Al-Naimat,Forward,87,9.1,1,0
+1,Odeh Fakhoury,Forward,8,0,0,0
+2,HADI ALHOURANI,Defender,0,0,0,0
+2,Ali Hajabi,Defender,5,6,0,0
+2,Abdallah Nasib,Defender,90,7.1,0,0
+2,Salem Al-Obeid,Defender,0,0,0,0
+2,Saed Al-Rosan,Defender,90,7.8,1,0
+2,Hussam Abu Dhab,Defender,90,6.7,0,0
+2,Ahmad Al-Ersan,Forward,0,0,0,0
+2,Mahmoud Al-Mardi,Forward,90,7.3,0,0
+2,Mohammad Abu Zreig,Forward,0,0,0,0
+2,Ali Olwan,Forward,90,8.2,1,0
+2,Yazan Al-Naimat,Forward,78,7.3,0,1
+2,Odeh Fakhoury,Forward,23,6.5,0,0
+2,MALEK SHALABIYA,Goalkeeper,0,0,0,0
+2,NOUR BANIATEYAH,Goalkeeper,0,0,0,0
+2,Essam Al-Samiri,Midfielder,0,0,0,0
+2,Adham Al-Quraishi,Midfielder,90,6.3,0,0
+2,Rajaei Ayed,Midfielder,12,5.5,0,0
+2,Amer Jamous,Midfielder,90,6.9,0,0
+2,Nizar Al-Rashdan,Midfielder,90,6.7,0,0
+2,Ibrahim Saadeh,Midfielder,23,6.1,0,0
+2,Mohammad Abu Hasheesh,Midfielder,0,0,0,0
+2,Mohannad Abu Taha,Midfielder,90,7.9,1,0
+2,Yazeed Abulaila,Goalkeeper,90,6.1,0,0
+3,MALEK SHALABIYA,Goalkeeper,0,0,0,0
+3,HADI ALHOURANI,Defender,63,7.3,0,0
+3,Ali Hajabi,Defender,71,7.3,0,0
+3,NOUR BANIATEYAH,Goalkeeper,90,8,0,0
+3,Yazeed Abulaila,Goalkeeper,0,0,0,0
+3,Abdallah Nasib,Defender,30,6.9,0,0
+3,Salem Al-Obeid,Defender,57,7.6,0,0
+3,Saed Al-Rosan,Defender,35,6.8,0,0
+3,Hussam Abu Dhab,Defender,21,6.6,0,0
+3,Essam Al-Samiri,Midfielder,90,7.1,0,0
+3,Adham Al-Quraishi,Midfielder,0,0,0,0
+3,Rajaei Ayed,Midfielder,90,6.9,0,0
+3,Amer Jamous,Midfielder,0,0,0,0
+3,Nizar Al-Rashdan,Midfielder,0,0,0,0
+3,Ibrahim Saadeh,Midfielder,90,7,0,0
+3,Mohammad Abu Hasheesh,Midfielder,45,7.9,1,0
+3,Mohannad Abu Taha,Midfielder,47,7,0,0
+3,Ahmad Al-Ersan,Forward,62,7.3,0,1
+3,Mahmoud Al-Mardi,Forward,30,6.4,0,0
+3,Mohammad Abu Zreig,Forward,82,7.7,1,0
+3,Ali Olwan,Forward,10,5,1,0
+3,Yazan Al-Naimat,Forward,0,0,0,0
+3,Odeh Fakhoury,Forward,90,6.7,0,0
+4,Yazeed Abulaila,Goalkeeper,90,8.1,0,0
+4,Abdallah Nasib,Defender,90,7.6,0,0
+4,Salem Al-Obeid,Defender,0,0,0,0
+4,Saed Al-Rosan,Defender,90,7.9,0,0
+4,Hussam Abu Dhab,Defender,82,6.9,0,0
+4,Essam Al-Samiri,Midfielder,0,0,0,0
+4,Adham Al-Quraishi,Midfielder,90,7.2,0,0
+4,Rajaei Ayed,Midfielder,29,6.5,0,0
+4,Amer Jamous,Midfielder,90,6.3,0,0
+4,Nizar Al-Rashdan,Midfielder,90,6.9,0,0
+4,Ibrahim Saadeh,Midfielder,0,0,0,0
+4,Mohammad Abu Hasheesh,Midfielder,0,0,0,0
+4,Mohannad Abu Taha,Midfielder,90,7.4,0,0
+4,Ahmad Al-Ersan,Forward,0,0,0,0
+4,Mahmoud Al-Mardi,Forward,64,6.9,0,0
+4,Mohammad Abu Zreig,Forward,0,0,0,0
+4,Ali Olwan,Forward,90,6.7,1,0
+4,Yazan Al-Naimat,Forward,14,5,0,0
+4,MALEK SHALABIYA,Goalkeeper,0,0,0,0
+4,HADI ALHOURANI,Defender,0,0,0,0
+4,Ali Hajabi,Defender,8,6,0,0
+4,NOUR BANIATEYAH,Goalkeeper,0,0,0,0
+4,Odeh Fakhoury,Forward,80,6.6,0,0
+5,Yazeed Abulaila,Goalkeeper,90,7,0,0
+5,Abdallah Nasib,Defender,90,7.3,0,0
+5,Salem Al-Obeid,Defender,0,0,0,0
+5,Saed Al-Rosan,Defender,90,7.9,0,0
+5,Hussam Abu Dhab,Defender,82,6.9,0,0
+5,Essam Al-Samiri,Midfielder,90,7,0,0
+5,Adham Al-Quraishi,Midfielder,0,0,0,0
+5,Rajaei Ayed,Midfielder,90,6.2,0,0
+5,Amer Jamous,Midfielder,11,4,0,0
+5,Nizar Al-Rashdan,Midfielder,90,8,1,0
+5,Ibrahim Saadeh,Midfielder,0,0,0,0
+5,Mohammad Abu Hasheesh,Midfielder,26,6.6,0,0
+5,Mohannad Abu Taha,Midfielder,84,6.8,0,0
+5,Ahmad Al-Ersan,Forward,45,6.6,0,0
+5,Mahmoud Al-Mardi,Forward,71,7.3,0,1
+5,Mohammad Abu Zreig,Forward,40,6.8,0,0
+5,Ali Olwan,Forward,90,6.6,0,0
+5,Yazan Al-Naimat,Forward,0,0,0,0
+5,MALEK SHALABIYA,Goalkeeper,0,0,0,0
+5,HADI ALHOURANI,Defender,0,0,0,0
+5,Ali Hajabi,Defender,6,0,0,0
+5,NOUR BANIATEYAH,Goalkeeper,0,,0,0
+5,Odeh Fakhoury,Forward,80,6.6,0,0
+6,Yazeed Abulaila,Goalkeeper,120,5.8,0,0
+6,Abdallah Nasib,Defender,120,7,0,0
+6,Salem Al-Obeid,Defender,0,0,0,0
+6,Saed Al-Rosan,Defender,120,6.4,0,0
+6,Hussam Abu Dhab,Defender,103,6,0,0
+6,Essam Al-Samiri,Midfielder,45,6.4,0,0
+6,Adham Al-Quraishi,Midfielder,75,5.8,0,0
+6,Rajaei Ayed,Midfielder,39,5.3,0,0
+6,Amer Jamous,Midfielder,81,6,0,0
+6,Nizar Al-Rashdan,Midfielder,120,6.5,0,0
+6,Ibrahim Saadeh,Midfielder,0,0,0,0
+6,Mohammad Abu Hasheesh,Midfielder,31,6.5,0,0
+6,Mohannad Abu Taha,Midfielder,120,6.9,0,1
+6,Ahmad Al-Ersan,Forward,120,0,0,0
+6,Mahmoud Al-Mardi,Forward,120,0,0,0
+6,Mohammad Abu Zreig,Forward,45,6.7,0,0
+6,Ali Olwan,Forward,120,8.3,2,0
+6,Yazan Al-Naimat,Forward,0,0,0,0
+6,Odeh Fakhoury,Forward,67,6,0,0
+6,MALEK SHALABIYA,Goalkeeper,0,0,0,0
+6,HADI ALHOURANI,Defender,0,0,0,0
+6,Ali Hajabi,Defender,17,6.3,0,0
+6,NOUR BANIATEYAH,Goalkeeper,0,0,0,0
